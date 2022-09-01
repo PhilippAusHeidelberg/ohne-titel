@@ -1,8 +1,6 @@
-/**
- * das ist tim
- */
+// das ist tim
 input.onButtonPressed(Button.A, function () {
-    basic.showString("ha ha ha ha ha ! ")
+    basic.showString("he he he he he !")
     basic.showLeds(`
         # . . . #
         . . . . .

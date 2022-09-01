@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "tim und philipp": "github:philippausheidelberg/tim-und-philipp#master"
     },
     "files": [
         "main.blocks",
